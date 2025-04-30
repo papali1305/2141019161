@@ -1,0 +1,6 @@
+Hello from main branch
+<<<<<<< HEAD
+Conflicting change in master branch
+=======
+Change made in feature branch
+>>>>>>> feature-branch

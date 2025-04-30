@@ -1,7 +1,0 @@
-Linux was created in 1991 by Linus Torvalds as a free, open-source operating system kernel. 
-It combined with GNU utilities to form GNU/Linux systems. The Linux philosophy emphasizes:
-- Small, modular programs that do one thing well
-- Everything is a file
-- Configuration through text files
-- Open source and free software
-- User choice and flexibility

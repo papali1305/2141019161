@@ -1,3 +1,0 @@
-/home/papali1305/wiprotest/day1/linux-file-explorer/build/CMakeFiles/file_explorer.dir
-/home/papali1305/wiprotest/day1/linux-file-explorer/build/CMakeFiles/edit_cache.dir
-/home/papali1305/wiprotest/day1/linux-file-explorer/build/CMakeFiles/rebuild_cache.dir
